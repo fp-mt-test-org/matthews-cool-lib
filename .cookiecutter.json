@@ -1,0 +1,36 @@
+{
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+    "artifact_id": "matthews-cool-lib",
+    "component_id": "matthews-cool-lib",
+    "description": "This is a test library.",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/matthews-cool-lib",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/matthews-cool-lib",
+            "name": "matthews-cool-lib",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/matthews-cool-lib",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "matthewscoollib",
+    "owner": "Product Infrastructure",
+    "repo_owner": "fp-mt-test-org",
+    "storePath": "https://github.com/fp-mt-test-org/matthews-cool-lib"
+}

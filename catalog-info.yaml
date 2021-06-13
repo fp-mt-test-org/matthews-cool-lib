@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "matthews-cool-lib"
+  description: "This is a test library."
+  annotations:
+    github.com/project-slug: fp-mt-test-org/matthews-cool-lib
+    backstage.io/techdocs-ref: url:https://github.com/fp-mt-test-org/matthews-cool-lib
+    backstage.io/kubernetes-id: matthews-cool-lib
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "Product Infrastructure"
