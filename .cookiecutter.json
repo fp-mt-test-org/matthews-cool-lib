@@ -1,6 +1,7 @@
 {
-    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/86ef1342-f72b-4546-8b1e-a1e160acc9c1/template",
-    "access": "fp-mt",
+
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+
     "artifact_id": "matthews-cool-lib",
     "component_id": "matthews-cool-lib",
     "description": "This is a test library.",
